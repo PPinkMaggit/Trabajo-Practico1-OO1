@@ -2,7 +2,7 @@
 --
 -listPedidos: List&lt;Pedidos&gt;
 -listUnidades: List&lt;UnidadVenta&gt;
--listPersonales: List&lt;Personal&gt;
+-listPersonal: List&lt;Personal&gt;
 -listFestivales: List&lt;Festival&gt;
 --
 
